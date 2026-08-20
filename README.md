@@ -87,16 +87,18 @@ backend, and database technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  ## 📊 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=Nav-een-G&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav-een-G&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
 
 ---
 
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nav-een-G&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Nav-een-G&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
