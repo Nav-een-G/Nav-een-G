@@ -141,10 +141,11 @@ backend, and database technologies.
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Nav-een-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
+    src="https://trophy.ryglcloud.net/?username=Nav-een-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
     alt="GitHub Trophies"
   />
 </p>
+
 ---
 
 ## 🌱 Currently Learning
@@ -187,7 +188,7 @@ backend, and database technologies.
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nav-een-G&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Nav-een-G&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
