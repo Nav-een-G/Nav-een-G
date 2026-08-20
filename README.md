@@ -87,9 +87,17 @@ backend, and database technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  ## 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=Nav-een-G&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav-een-G&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nav-een-G&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="180"
+    alt="GitHub Stats"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nav-een-G&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 
